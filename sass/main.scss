@@ -1,3 +1,8 @@
+@import 'modules/_media';
+
+
+@media only screen and (min-width: 961px) {
+
 main{
  background-image: url(../images/bg.svg);
  background-repeat: no-repeat;
@@ -7,112 +12,131 @@ main{
  h1{font-family: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
  color: red; display: none; } 
 
+//  object{
+//    width: 200px;
+//    height: 40px;
+//  }
+//I didn't use object tag
+
 .star{
 position: absolute;
+
+img{
+width: 100px;
+height: 40px;}
+
 }
 
- .usa-star
+ #usa-star
  {
-width:200px;
-height: 40px;
-position: relative;
-top: 27vh;
-left: 6%;
+// position: relative;
+
+margin-top: 20vh;
+margin-left:10vw;
+// left: 6%;
  }
 
- .hong-star
+
+
+ #hong-star
  {
-width: 150px;
-height: 40px;
+
 position: relative;
 top: 33vh;
 left: 72%;
  }
 
- .uk-star
+ #uk-star
  {
-width: 100px;
-height: 40px;
+
 position: relative;
-top:7vh;
-left: 41%;
+top:5vh;
+left: 38vw;
  }
 
- .macau-star
+ #macau-star
  {
- width: 100px;
- height: 40px;
+ 
  position: relative;
  top: 28vh;
  left: 76%;
  }
 
- .korea-star
+ #korea-star
  {
-width: 100px;
-height: 40px;
+
 position: relative;
-top: 5vh;
-left: 81%;
+top: 10vh;
+left: 78vw;
  }
 
- .tai-star
+ #tai-star
  {
-width: 100px;
-height: 40px;
+
 position: relative;
 top: 12vh;
  left: 79%;
  }
 
- .au-star
+ #den-star
  {
-    width: 100px;
-    height: 40px;
-    position: relative;
-    top:-15vh;
-    left: 45%;
- }
-
- .sw-star
- {
-    width: 100px;
-    height: 40px;
-    position: relative;
-    top:-30vh;
-    left: 46%; 
- }
-
- .no-star
- {
-    width: 100px;
-    height: 40px;
-    position: relative;
-    top:-35vh;
-    left: 43%; 
- }
- .den-star
- {
-     width: 100px;
-    height: 40px;
     position: relative;
     top: -30vh;
-    left: 41%;
+    left: 37vw;
+ }
+
+ #no-star
+ {
+
+    position: relative;
+    top:-32vh;
+    left: 46vw; 
+ }
+
+ #sw-star
+ {
+    position: relative;
+    top:-32vh;
+    left: 43vw; 
+ }
+ #au-star
+ {
+    position: relative;
+    top: -15vh;
+    left: 41vw;
  }
 
  .popover { 
    display: none;
    position: absolute;
-   top: 18%;
-   left: 110%;
-   background-color: orange;
-   width: 450px;
+   top: 20vh;
+   left: 20vw;
+   background-color: skyblue;
+   width:50vw;
+   height: 70vh;
    z-index: 1;
    border-radius: 8px;
    padding: 4px;
  }
 
- .show-popover { display: block; }
+ .show-popover { 
+    display: block;
+    position: absolute;
+      text-align: center;
+   .flag{display: inline-block; width:30vw; height: 35vh; }
+   
+   .close-btn {
+      border: none;
+      background-color: skyblue;
+      width: 55px;
+      height: 30px;
+      
+      font-size: 1.2em;
 
+   }
+
+   }
 
 }
+}
+

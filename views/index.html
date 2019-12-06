@@ -12,45 +12,53 @@
     <main>
     <h1>Three Stars Michelin restaurants in the world</h1>
         <section class="usa">
-        <span class="star" data-target="1"><img src="images/rank-one.svg" alt="rank1" class="usa-star">
-        
+        <span class="star" id="usa-star" data-target="1"><img src="images/rank-one.svg" alt="rank1">
         </span>
+        <!-- <object data="images/america.svg" type="image/svg+xml" class="flag"></object> -->
         </section>
         <!--usa-->
         <section class="hongkong">
-        <object data="images/rank-two.svg" type="image/svg+xml" class="hong-star" data-target="2"></object>
+        <span  class="star" id="hong-star" data-target="2"><img src="images/rank-two.svg" alt="rank2">
+        <!-- <object data="images/hongkong.svg" type="image/svg+xml"></object> -->
         </section> 
         <!--hongkong-->
         <section class="uk">
-        <object data="images/rank-three.svg" type="image/svg+xml" class="uk-star" data-target="3"></object>
+        <span  class="star" id="uk-star" data-target="3"><img src="images/rank-three.svg" alt="rank3">
+        <!-- <object data="images/rank-three.svg" type="image/svg+xml" class="uk-star" data-target="3"></object> -->
         </section>
         <!--uk -->
         <section class="macau">
-        <object data="images/one-star.svg" type="image/svg+xml" class="macau-star" data-target="4"></object>
+        <span  class="star" id="macau-star" data-target="4"><img src="images/one-star.svg" alt="rank4">
+        <!-- <object data="images/one-star.svg" type="image/svg+xml" class="macau-star" data-target="4"></object> -->
         </section>
         <!-- macau -->
         <section class="korea">
-        <object data="images/one-star.svg" type="image/svg+xml" class="korea-star" data-target="5"></object>
+        <span  class="star" id="korea-star" data-target="5"><img src="images/one-star.svg" alt="rank5">
+        <!-- <object data="images/one-star.svg" type="image/svg+xml" class="korea-star" data-target="5"></object> -->
         </section>
        <!-- South Korea!-->
          <section class="taiwan">
-            <object data="images/one-star.svg" type="image/svg+xml" class="tai-star" data-target="6"></object>
+        <span  class="star" id="tai-star" data-target="6"><img src="images/one-star.svg" alt="rank6">
+            <!-- <object data="images/one-star.svg" type="image/svg+xml" class="tai-star" data-target="6"></object> -->
         </section>
+        <!---EU-->
         <section class="austria">
-        <object data="images/one-star.svg" type="image/svg+xml" class="au-star" data-target="7"></object>
+                <span  class="star" id="au-star" data-target="7"><img src="images/one-star.svg" alt="rank7">
         </section>
         <section class="sweden">
-        <object data="images/one-star.svg" type="image/svg+xml" class="sw-star" data-target="8"></object>
+        <span  class="star" id="sw-star" data-target="8"><img src="images/one-star.svg" alt="rank8">
         </section>
         <section class="norway">
-        <object data="images/one-star.svg" type="image/svg+xml" class="no-star" data-target="9"></object>
+        <span  class="star" id="no-star" data-target="9"><img src="images/one-star.svg" alt="rank9">
         </section>
         <section class="denmark">
-        <object data="images/one-star.svg" type="image/svg+xml" class="den-star" data-target="10"></object>
+                <span  class="star" id="den-star" data-target="10"><img src="images/one-star.svg" alt="rank10">
         </section> 
+        <!--lightBox-->
         <article class="popover">
-            <!-- ㅇㅣ미지 -->
+            <button class="close-btn">Close</button>
             <h2 class="country"></h2>
+            <figure class="flag"></figure>
             <h3 class="rank"></h3>
             <p class="total"></p>
         </article>

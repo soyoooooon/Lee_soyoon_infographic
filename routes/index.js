@@ -7,6 +7,7 @@ const sql = require('../utils/sql');
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.sendFile((path.join(__dirname, "../views/index.html")));
+  
 });
 
 router.get('/info/:target', (req, res) => {

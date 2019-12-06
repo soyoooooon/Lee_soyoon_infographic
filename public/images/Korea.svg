@@ -1,1 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280.5 187"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:#cf2a3a;}.cls-3{fill:#124c9b;}</style></defs><title>Asset 8</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><g id="korea"><rect class="cls-1" width="280.5" height="187"/><g id="flag"><circle class="cls-2" cx="141.1" cy="93.4" r="47.3"/><path class="cls-3" d="M100.2,69.7s-7.4,20,6.3,29.1,27.3,3.1,32.6-4,16.4-16,29.4-10.2,15.5,17.7,14.8,28.6-29.7,37.9-61.2,23.7C91.3,122.9,88.8,89,100.2,69.7Z"/><g id="bottom-left"><rect x="58.05" y="119.89" width="7.8" height="20.7" transform="translate(-62.21 56.87) rotate(-33.98)"/><rect x="74.75" y="111.15" width="7.8" height="45.9" transform="translate(-61.52 66.86) rotate(-33.98)"/><rect x="54.83" y="124.6" width="7.8" height="45.9" transform="translate(-72.44 58.03) rotate(-33.98)"/><rect x="72.06" y="140.84" width="7.8" height="20.7" transform="translate(-71.53 68.27) rotate(-33.98)"/></g><g id="bottom-right"><rect x="208.49" y="126.41" width="20.7" height="7.8" transform="translate(-10.54 241.03) rotate(-56.54)"/><rect x="218.32" y="132.94" width="20.7" height="7.8" transform="translate(-11.57 252.16) rotate(-56.54)"/><rect x="197.8" y="119.91" width="21.3" height="7.8" transform="translate(-9.77 229.44) rotate(-56.54)"/><rect x="194.54" y="147.45" width="20.7" height="7.8" transform="translate(-34.34 238.83) rotate(-56.54)"/><rect x="204.44" y="153.92" width="20.7" height="7.8" transform="translate(-35.3 249.99) rotate(-56.54)"/><rect x="184.33" y="140.61" width="20.7" height="7.8" transform="translate(-33.21 227.25) rotate(-56.54)"/></g><g id="top-right"><rect x="210.99" y="18.54" width="7.8" height="20.7" transform="translate(20.67 125.28) rotate(-34.05)"/><rect x="191.21" y="32.05" width="7.8" height="21.3" transform="translate(9.54 116.57) rotate(-34.05)"/><rect x="208.18" y="23.05" width="7.8" height="45.9" transform="translate(10.61 126.64) rotate(-34.05)"/><rect x="225.08" y="39.44" width="7.8" height="20.7" transform="translate(11.38 136.75) rotate(-34.05)"/><rect x="205.13" y="53.03" width="7.8" height="20.7" transform="translate(0.35 127.91) rotate(-34.05)"/></g><g id="top-left"><rect x="45.55" y="42.29" width="45.9" height="7.8" transform="translate(-8.18 76.95) rotate(-55.85)"/><rect x="60.23" y="47.39" width="46" height="7.8" transform="translate(-5.84 91.6) rotate(-55.99)"/><rect x="35.32" y="35.41" width="45.9" height="7.8" transform="translate(-6.97 65.47) rotate(-55.85)"/></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Korea" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 280.5 187" style="enable-background:new 0 0 280.5 187;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#CF2A3A;}
+	.st2{fill:#124C9B;}
+</style>
+<title>Asset 8</title>
+<g>
+	<g id="Layer_1-2">
+		<g id="korea">
+			<rect class="st0" width="280.5" height="187"/>
+			<g id="flag">
+				<circle class="st1" cx="141.1" cy="93.4" r="47.3"/>
+				<path class="st2" d="M100.2,69.7c0,0-7.4,20,6.3,29.1s27.3,3.1,32.6-4s16.4-16,29.4-10.2s15.5,17.7,14.8,28.6
+					s-29.7,37.9-61.2,23.7C91.3,122.9,88.8,89,100.2,69.7z"/>
+				<g id="bottom-left">
+					<rect x="58.1" y="119.9" transform="matrix(0.8292 -0.5589 0.5589 0.8292 -62.215 56.8671)" width="7.8" height="20.7"/>
+					<rect x="74.7" y="111.2" transform="matrix(0.8292 -0.5589 0.5589 0.8292 -61.5197 66.857)" width="7.8" height="45.9"/>
+					<rect x="54.8" y="124.6" transform="matrix(0.8292 -0.5589 0.5589 0.8292 -72.4425 58.021)" width="7.8" height="45.9"/>
+					<rect x="72.1" y="140.8" transform="matrix(0.8292 -0.5589 0.5589 0.8292 -71.5278 68.2717)" width="7.8" height="20.7"/>
+				</g>
+				<g id="bottom-right">
+					<rect x="208.5" y="126.4" transform="matrix(0.5514 -0.8343 0.8343 0.5514 -10.5317 241.0262)" width="20.7" height="7.8"/>
+					<rect x="218.3" y="132.9" transform="matrix(0.5514 -0.8343 0.8343 0.5514 -11.5655 252.1629)" width="20.7" height="7.8"/>
+					<rect x="197.8" y="119.9" transform="matrix(0.5514 -0.8343 0.8343 0.5514 -9.7617 229.4466)" width="21.3" height="7.8"/>
+					<rect x="194.5" y="147.4" transform="matrix(0.5514 -0.8343 0.8343 0.5514 -34.337 238.8367)" width="20.7" height="7.8"/>
+					<rect x="204.4" y="153.9" transform="matrix(0.5514 -0.8343 0.8343 0.5514 -35.2932 249.9946)" width="20.7" height="7.8"/>
+					<rect x="184.3" y="140.6" transform="matrix(0.5514 -0.8343 0.8343 0.5514 -33.2149 227.2566)" width="20.7" height="7.8"/>
+				</g>
+				<g id="top-right">
+					<rect x="211" y="18.5" transform="matrix(0.8285 -0.5599 0.5599 0.8285 20.664 125.2763)" width="7.8" height="20.7"/>
+					<rect x="191.2" y="32.1" transform="matrix(0.8285 -0.5599 0.5599 0.8285 9.5406 116.565)" width="7.8" height="21.3"/>
+					<rect x="208.2" y="23.1" transform="matrix(0.8285 -0.5599 0.5599 0.8285 10.6025 126.6375)" width="7.8" height="45.9"/>
+					<rect x="225.1" y="39.4" transform="matrix(0.8285 -0.5599 0.5599 0.8285 11.3783 136.7465)" width="7.8" height="20.7"/>
+					<rect x="205.1" y="53" transform="matrix(0.8285 -0.5599 0.5599 0.8285 0.3484 127.9061)" width="7.8" height="20.7"/>
+				</g>
+				<g id="top-left">
+					<rect x="45.5" y="42.3" transform="matrix(0.5614 -0.8276 0.8276 0.5614 -8.1799 76.9486)" width="45.9" height="7.8"/>
+					<rect x="60.2" y="47.4" transform="matrix(0.5593 -0.8289 0.8289 0.5593 -5.8448 91.5968)" width="46" height="7.8"/>
+					<rect x="35.3" y="35.4" transform="matrix(0.5614 -0.8276 0.8276 0.5614 -6.9751 65.4694)" width="45.9" height="7.8"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
